@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<!--https://api.openweathermap.org/data/2.5/forecast?appid=155c57409b01f957d689ec252a9cdbd2&units=imperial&q=inman,usa-->
+<!--https://openweathermap.org/forecast5-->
+<!--https://basmilius.github.io/weather-icons/production/line/all/clear-day.svg-->
+<script src="https://code.jquery.com/jquery-3.7.1.slim.js" integrity="sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=" crossorigin="anonymous"></script>
+<script>
+$( document ).ready(function() {
+    console.log( "ready!" );
+});
+</script>
+<head>
+</head>
+<body>
+
+</body>
+</html>
